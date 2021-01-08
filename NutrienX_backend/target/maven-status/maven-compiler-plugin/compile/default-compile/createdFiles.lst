@@ -1,0 +1,11 @@
+com\example\NutrienX\homepage.class
+com\example\NutrienX\usercontroller.class
+com\example\NutrienX\data_types_and_database\KeysRespository.class
+com\example\NutrienX\NutrienXApplication.class
+com\example\NutrienX\data_types_and_database\Meals.class
+com\example\NutrienX\data_types_and_database\User.class
+com\example\NutrienX\data_types_and_database\UserRespository.class
+com\example\NutrienX\mealcontroller.class
+com\example\NutrienX\smallutilities\Nutritionix.class
+com\example\NutrienX\data_types_and_database\MealRepository.class
+com\example\NutrienX\data_types_and_database\Keys.class
